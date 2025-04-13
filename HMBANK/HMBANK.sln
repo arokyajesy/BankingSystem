@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMBANK", "HMBANK.csproj", "{30D90CA9-CF76-4110-8283-C8ACA7E0BFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{3AD50CFB-DB59-4DCD-985F-E809507D3DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D90CA9-CF76-4110-8283-C8ACA7E0BFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D90CA9-CF76-4110-8283-C8ACA7E0BFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D90CA9-CF76-4110-8283-C8ACA7E0BFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D90CA9-CF76-4110-8283-C8ACA7E0BFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD50CFB-DB59-4DCD-985F-E809507D3DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD50CFB-DB59-4DCD-985F-E809507D3DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD50CFB-DB59-4DCD-985F-E809507D3DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD50CFB-DB59-4DCD-985F-E809507D3DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18EE5764-7AD6-4FBB-819A-447A7C2F086B}
+	EndGlobalSection
+EndGlobal
